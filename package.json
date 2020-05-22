@@ -11,10 +11,12 @@
     "antd-dayjs-webpack-plugin": "0.0.9",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^0.9.1",
+    "formik": "^2.1.4",
     "react": "^16.13.1",
     "react-app-rewired": "^2.1.5",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "yup": "^0.29.0"
   },
   "scripts": {
     "start": "react-app-rewired start",
