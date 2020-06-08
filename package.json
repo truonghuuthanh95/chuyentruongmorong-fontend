@@ -9,12 +9,17 @@
     "@testing-library/user-event": "^7.2.1",
     "antd": "^3.26.14",
     "antd-dayjs-webpack-plugin": "0.0.9",
+    "axios": "^0.19.2",
     "babel-plugin-import": "^1.13.0",
     "customize-cra": "^0.9.1",
+    "history": "^4.10.1",
+    "moment": "^2.26.0",
     "react": "^16.13.1",
     "react-app-rewired": "^2.1.5",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "sweetalert2": "^9.14.0"
   },
   "scripts": {
     "start": "react-app-rewired start",
