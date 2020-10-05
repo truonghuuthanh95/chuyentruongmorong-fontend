@@ -44,7 +44,7 @@ export default class Index extends Component {
       });
     axios
       .get(
-        "https://wapi.hcm.edu.vn/ChuyenTruongMoRong/apiChuyenTruong/GetLop",
+        "https://wapi.hcm.edu.vn/ChuyenTruongMoRong/apiChuyenTruong/GetLop/2020",
         { headers: { Token: token } }
       )
       .then((res) => {
